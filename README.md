@@ -1,22 +1,10 @@
-# IS445DataViz
-
-Written in essay format of 5 to 7 sentences per paragraph.
-
- 
-
-Using your final project dataset, create a data visualization of your choice for each research question in your study.  You may use any visualizations covered in this course.
-
- 
-
-Make sure that your visualizations show and explain a clear data story message for each of research question in your study.
-
-
-Make sure to explain in a paragraph your audience and the data story message in terms of the domain/application perspective for each data visualization.
-
- 
-
-Make sure to explain future or next steps beyond the data story answers from the visualization.
-
- 
-
-Make sure to include a title, figure number, label x and y axes with units, legends (if necessary), and additional annotations (if needed).
+#Glassdoor Analysis: Exploring the Pay Gap Through Data Visualization
+What if two employees do the same job, perform equally well, and receive identical evaluations, but one 
+consistently earns thousands less than the other? That is exactly what we found in our analysis of 
+real-world salary data. Even after accounting for performance, women in the dataset earned significantly 
+less than men with the same evaluation scores, about $6,200 less on average. This was not a fluke. The 
+gap appeared across all performance levels, showing that gender, not merit, was quietly shaping 
+compensation. These findings challenge the assumption that performance-based systems are inherently 
+fair. If equal effort and recognition do not lead to equal pay, then companies must confront a deeper issue, 
+structural inequity that persists even when women do everything right. For anyone entering the workforce 
+or working to build fairer workplaces, this insight is not just revealing, it is urgent.  
