@@ -1,7 +1,7 @@
 
 
 
-# Gender Pay Analysis – Glassdoor
+#  People Analytics: Salary Equity Dashboard
 
 This project explores gender-based salary disparities using real-world data from Glassdoor. It aims to determine whether statistically significant wage differences exist between men and women, and what factors may contribute to these gaps.
 
